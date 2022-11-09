@@ -1,4 +1,4 @@
-# Java Spring Boot JWT
+# java-auth-api
 
 
 
