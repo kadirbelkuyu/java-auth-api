@@ -59,13 +59,13 @@ spring-boot-jwt/
 2. Fork this repository and clone it
   
 ```
-$ git clone https://github.com/<your-user>/spring-boot-jwt
+$ git clone https://github.com/kadirbelkuyu/java-auth-api.git
 ```
 
 3. Navigate into the folder  
 
 ```
-$ cd spring-boot-jwt
+$ cd java-auth-api
 ```
 
 4. Install dependencies
